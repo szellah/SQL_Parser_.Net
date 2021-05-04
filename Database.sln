@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlParser", "sqlParser\sqlParser.csproj", "{F8154D7B-D335-4B09-822D-04F8557F9F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8154D7B-D335-4B09-822D-04F8557F9F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8154D7B-D335-4B09-822D-04F8557F9F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8154D7B-D335-4B09-822D-04F8557F9F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8154D7B-D335-4B09-822D-04F8557F9F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {410DA151-EF6D-4766-9533-06F9E0E488E2}
+	EndGlobalSection
+EndGlobal
